@@ -1,0 +1,1 @@
+# ai-sycophantic-detector
